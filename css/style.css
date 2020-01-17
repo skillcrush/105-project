@@ -1,6 +1,8 @@
 section {
 	width: 800px;
 	margin: 100px auto;
+	background-color: #ff6666;
+	text-align: center;
 }
 section h1,
 section p {
@@ -10,7 +12,10 @@ section p {
 section h1 {
 	font: 32px 'Open Sans';
 	font-weight: bold;
+	text-align: center;
+
 }
 section p {
 	font: 16px 'Open Sans';
+	text-align: center;
 }
